@@ -1,4 +1,4 @@
-<h1 align="center">Hi Geeks, I'm Wilson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Wilson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   
@@ -10,11 +10,11 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- 💬 Ask me about anything, I am happy to help!😉
 
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+- 💪🏼 Fav Quote: "If you can imagine it, you can program it".
 
 <br>
 
@@ -73,6 +73,7 @@
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![NetBeans](https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
     
 - 🥅 Others:
@@ -92,11 +93,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ElWillyGod&show_icons=true&theme=tokyonight" width="45%" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElWillyGod&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ElWillyGod&show_icons=true&theme=tokyonight" max-width="100%" height= auto/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElWillyGod&theme=tokyonight" max-width="100%" height= auto/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElWillyGod&theme=tokyonight&layout=compact" width="45%" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElWillyGod&theme=tokyonight&layout=compact" max-width="100%" height= auto/>
 </div>
 <br>
 
