@@ -33,7 +33,7 @@
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![C#](https://img.shields.io/badge/csharp-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
     
 - ☁️ Cloud:
 
@@ -57,7 +57,7 @@
     
 - 🎛️ Operating System:
 
-    ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+    ![Cent OS](https://img.shields.io/badge/centos-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
     ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
     ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
     ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
