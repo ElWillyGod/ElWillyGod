@@ -93,11 +93,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ElWillyGod&show_icons=true&theme=tokyonight" max-width="100%" height= auto/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElWillyGod&theme=tokyonight" max-width="100%" height= auto/>
+<img src="https://github-readme-stats.vercel.app/api?username=ElWillyGod&show_icons=true&theme=tokyonight" margin= "10px" max-width="100%" higth= auto/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElWillyGod&theme=tokyonight" margin= "10px" max-width="100%" higth= auto/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElWillyGod&theme=tokyonight&layout=compact" max-width="100%" height= auto/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElWillyGod&theme=tokyonight&layout=compact" margin= "10px"/>
+<img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" margin= "10px" align="right" width="300" higth= auto/>
 </div>
 <br>
 
