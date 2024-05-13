@@ -128,11 +128,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chrix40&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrix40&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ElWillyGod&show_icons=true&theme=tokyonight" width="45%" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElWillyGod&theme=tokyonight" width="45%"/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&theme=tokyonight&layout=compact" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElWillyGod&theme=tokyonight&layout=compact" width="45%" height="180px"/>
 </div>
 <br>
 
