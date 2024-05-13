@@ -55,7 +55,7 @@
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/mongodb-%252300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     
-- 🎛️ Operating Systen:
+- 🎛️ Operating System:
 
     ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
     ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -112,7 +112,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
+ <em><b>I love connecting with different people, so if you want to say hi, I'd be delighted to meet you!</b>😃</em>
  
 <br>
 <p align='center'>
