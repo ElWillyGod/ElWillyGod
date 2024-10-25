@@ -24,17 +24,21 @@
 
 - 📋 Languages:
 
+    ![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![.NET](https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=TypeScript)
-    ![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/typescript-%23233178C6?style=for-the-badge&logo=TypeScript)
+    ![Node.js](https://img.shields.io/badge/nodejs-%25?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E)
+    ![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%2390E59A)
+    ![Angular](https://img.shields.io/badge/angular-%230F0F11?style=for-the-badge&logo=angular)
+
     
 - ☁️ Cloud:
 
@@ -71,6 +75,7 @@
 - 💻 IDEs/Editors:
 
     ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+    ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-%235bdaac?style=for-the-badge&logo=notepadplusplus&logoColor=%2390E59A)
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
