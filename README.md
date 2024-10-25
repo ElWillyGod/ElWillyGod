@@ -33,7 +33,7 @@
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=TypeScript)
+    ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=TypeScript)
     ![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
     
 - ☁️ Cloud:
