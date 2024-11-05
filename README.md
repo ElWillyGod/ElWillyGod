@@ -35,9 +35,7 @@
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/typescript-%23233178C6?style=for-the-badge&logo=TypeScript)
-    ![Node.js](https://img.shields.io/badge/nodejs-%25?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E)
     ![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%2390E59A)
-    ![Angular](https://img.shields.io/badge/angular-%230F0F11?style=for-the-badge&logo=angular)
 
     
 - ☁️ Cloud:
