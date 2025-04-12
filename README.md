@@ -31,12 +31,12 @@
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23121011.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23121011?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![TypeScript](https://img.shields.io/badge/typescript-%23233178C6?style=for-the-badge&logo=TypeScript)
-    ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%2390E59A)
+    ![React](https://img.shields.io/badge/React-%23121011?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Next.js](https://img.shields.io/badge/next.js-%23121011?style=for-the-badge&logo=nextdotjs&logoColor=%2390E59A)
 
     
 - ☁️ Cloud:
