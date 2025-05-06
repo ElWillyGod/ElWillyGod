@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" alt="" width="450" src="[https://camo.githubusercontent.com/e2e93a7fdf20ca4f31a557c3bfc701bea95009d2520601aa6db1a64bc612b775/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966](https://tenor.com/es-MX/view/smiley-pc-coffee-kaffee-kafe-cofe-gif-4514738875718239198)">
+<img align="right" alt="" width="450" src="https://tenor.com/es-MX/view/smiley-pc-coffee-kaffee-kafe-cofe-gif-4514738875718239198">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
